@@ -1,6 +1,6 @@
 ## Hi  👋
 
-大家好，我是小阴同学，一名深耕车载行业领域多年的底层软件开发工程师。
+大家好，我是小阴同学，一名深耕车载行业多年的底层软件开发工程师。
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
