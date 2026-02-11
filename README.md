@@ -2,6 +2,14 @@
 
 大家好，我是小阴同学，一名深耕车载行业领域多年的底层软件开发工程师。
 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-F7DF1E?style=flat)
+
+![Linux](https://img.shields.io/badge/Linux-Kernel-black?style=flat&logo=linux)
+![DRM](https://img.shields.io/badge/Linux-DRM-blue?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-Design-orange?style=flat)
+
 * 我的网站：[个人网站](http://www.pedestrian.com.cn/)
 * 我的邮箱：[个人邮箱](hkdywg@163.com)
 
@@ -33,14 +41,6 @@
 * 熟悉 FPGA / Verilog 基础，能够配合硬件工程师进行接口联调
 * 熟悉图像处理数据流、缓存架构及实时视频处理系统设计
 * 具备跨团队协作经验，能够参与系统架构设计与技术评审
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-F7DF1E?style=flat)
-
-![Linux](https://img.shields.io/badge/Linux-Kernel-black?style=flat&logo=linux)
-![DRM](https://img.shields.io/badge/Linux-DRM-blue?style=flat)
-![FPGA](https://img.shields.io/badge/FPGA-Design-orange?style=flat)
 
 ---
 
