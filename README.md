@@ -10,8 +10,8 @@
 ![DRM](https://img.shields.io/badge/Linux-DRM-blue?style=flat)
 ![FPGA](https://img.shields.io/badge/FPGA-Design-orange?style=flat)
 
-* 我的网站：🔭  [个人网站](http://www.pedestrian.com.cn/)
-* 我的邮箱：💬  [个人邮箱](hkdywg@163.com)
+* 我的网站：🔭  http://www.pedestrian.com.cn/
+* 我的邮箱：💬  hkdywg@163.com
 
 ## About Me
 
